@@ -1,0 +1,11 @@
+import os
+import openai
+# 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
+import openai
+
+openai.api_key = "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"
+model_engine = "text-davinci-002"
+prompt = str(input("Enter your prompt: "))
+completion = openai.Completion.create(engine=model_engine, prompt=prompt,max_tokens = 1024,n=1,stop=None,temperature=0.9,)
+response = completion.choices[0].text
+print(response)
