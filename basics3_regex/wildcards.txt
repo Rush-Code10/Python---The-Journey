@@ -1,0 +1,14 @@
+C:Documents//Chemistry//Run
+C:Downloads//Setups//Windows
+D:Desktop//Recycle Bin
+C Startup//Boot
+E:Windows//Run
+C:Cache//Pip
+
+X:Documents -Chemistry//Run//
+X:Downloads-Setups//Windows //
+X:Desktop -Recycle Bin//
+X:Startup- Boot//
+X:Windows-Run//
+X:Cache- Pip//
+
