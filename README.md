@@ -1,6 +1,6 @@
 A collection of most of what I coded in Python.
 - Basics
 - Intermediate
-- Project
+- Projects
 - File Handling
 - College Labs
